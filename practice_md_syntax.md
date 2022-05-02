@@ -28,3 +28,16 @@ First Name|Last Name|Role
 -|-|-
 Taher|Oliya|Technical Writer
 Arefa|Oliya|Teacher
+# Add blockquotes by using the > character
+>This text is in blockquotes
+# Use HTML inline syntax for inserting line break
+This is an example of a line break to start:</br>
+A new sentence on the next line
+# Format inline text as code by using the backtick (`) character
+Use the `codeph` tag to format inline text as code.
+# Add a fenced code block with three backticks (```) before and after
+```
+var a = 1;
+var b = 2;
+var sum = a + b;
+```
