@@ -41,3 +41,6 @@ var a = 1;
 var b = 2;
 var sum = a + b;
 ```
+# Cross-reference to Issues or Pull Requests
+**Method 1**
+#2
