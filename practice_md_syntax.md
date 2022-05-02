@@ -42,5 +42,9 @@ var b = 2;
 var sum = a + b;
 ```
 # Cross-reference to Issues or Pull Requests
-**Method 1**
-#2
+### Method 1
+See isssue **Introduction to GitHub** at: https://github.com/tmoliya/github-slideshow/issues/2
+### Method 2
+See pull request details at: tmoliya/github-slideshow#3
+# Cross-reference to a Commit with its SHA hash
+See details of the commit at: https://github.com/tmoliya/github-slideshow/commit/5d8cf15dd68ad7c73e43905ea95de7bceb9f9be7
