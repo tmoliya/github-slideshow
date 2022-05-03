@@ -48,3 +48,7 @@ See isssue **Introduction to GitHub** at: https://github.com/tmoliya/github-slid
 See pull request details at: tmoliya/github-slideshow#3
 # Cross-reference to a Commit with its SHA hash
 See details of the commit at: https://github.com/tmoliya/github-slideshow/commit/5d8cf15dd68ad7c73e43905ea95de7bceb9f9be7
+# Create task lists in the body of an issue or pull request
+- [x] Task 1: Add a network segment
+- [ ] Task 2: Specify Gateway IP address of the subnet
+- [ ] Task 3: Configure DHCP on the segment 
