@@ -52,3 +52,11 @@ See details of the commit at: https://github.com/tmoliya/github-slideshow/commit
 - [x] Task 1: Add a network segment
 - [ ] Task 2: Specify Gateway IP address of the subnet
 - [ ] Task 3: Configure DHCP on the segment 
+# Inline link in a sentence
+Click this [link](https://docworks.vmware.com) to go to DocWorks portal.
+# Link to a heading on the same page
+For information about adding tables click [Add Tables](#add-tables)
+<br>
+**Tip:** To know the bookmark of the heading, in the rendered HTML output, point to the heading. Observe the text after the # in the status bar of the browser.
+<br>
+For example, in the above sentence, the bookmark of the heading on this Markdown page is *add-tables*
