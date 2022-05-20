@@ -62,6 +62,8 @@ For information about adding tables click [Add Tables](#add-tables)
 For example, in the above sentence, the bookmark of the heading on this Markdown page is *add-tables*
 # Link to a markdown file in the root folder of the same repo
 To read the license agreement, click [LICENSE](LICENSE)
+# Link to file in a different repository
+To view the `create_artifacts.sh` script file, go to the [nsxraml](nsraml/6.4/create_artifacts.sh) repository in github.com.
 # Hide content in output with comments
 You can tell GitHub to hide content from the rendered Markdown by placing the content in an HTML comment. Use \<!-- Comment text -->
 <br>
